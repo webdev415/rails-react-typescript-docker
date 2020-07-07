@@ -1,4 +1,4 @@
-# Rails-React-TypeScript-Docker Example [![CircleCI](https://circleci.com/gh/ohbarye/rails-react-typescript-docker-example/tree/master.svg?style=svg)](https://circleci.com/gh/ohbarye/rails-react-typescript-docker-example/tree/master)
+# Rails-React-TypeScript-Docker Example [![CircleCI](https://circleci.com/gh/webdev415/rails-react-typescript-docker-example/tree/master.svg?style=svg)](https://circleci.com/gh/webdev415/rails-react-typescript-docker-example/tree/master)
 
 ## TL;DR
 
@@ -15,7 +15,7 @@
 ## Usage
 
 ```shell
-$ git clone https://github.com/ohbarye/rails-react-typescript-docker-example.git && cd rails-react-typescript-docker-example
+$ git clone https://github.com/webdev415/rails-react-typescript-docker-example.git && cd rails-react-typescript-docker-example
 
 # Setup
 $ docker-compose run frontend yarn
